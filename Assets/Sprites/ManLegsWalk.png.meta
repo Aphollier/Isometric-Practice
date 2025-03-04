@@ -1,0 +1,1372 @@
+fileFormatVersion: 2
+guid: 402339db9d90a1049a59e0bd4f25fbd7
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 128
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ManLegsWalk_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 640
+        width: 74
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a495a361f1ad444bb2a41b3c1d0d8a7
+      internalID: -102409997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManLegsWalk_1
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 640
+        width: 74
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41688c28ccaae0e459290ca22d1377f0
+      internalID: -1308312117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManLegsWalk_2
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 640
+        width: 74
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d61c48bf294807c4d92f97e6f89fdb11
+      internalID: -557568683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManLegsWalk_3
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 640
+        width: 74
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3068b2b62cd70ed48bd690ac4ec05dd2
+      internalID: 1587256353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManLegsWalk_4
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 640
+        width: 74
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eb91b1e4e105f6438e61623be5cac22
+      internalID: -408226912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManLegsWalk_5
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 640
+        width: 74
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9720a8564ed867748a2208cc34ec9aa3
+      internalID: -1871426334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManLegsWalk_6
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 640
+        width: 74
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 172bbe48294b7c44e9900f59c8ee2e0d
+      internalID: -1643090987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManLegsWalk_7
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 640
+        width: 74
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d5f5aa07c999c9489adafbf3854edbf
+      internalID: -659944262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManLegsWalk_8
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 640
+        width: 74
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc4f8b5aef1507541be44767f31518d6
+      internalID: -1523486611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManLegsWalk_9
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 640
+        width: 74
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 270b55d0ccb7de240807ac832ed93599
+      internalID: 800041620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManLegsWalk_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 74
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7962d767c4a0474d8d0abb312228517
+      internalID: -710741580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManLegsWalk_11
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 512
+        width: 74
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed36fce3d6af9a94cb9a20c6638487ab
+      internalID: 563795777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManLegsWalk_12
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 512
+        width: 74
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 557fc109978c88f478b098980f78fc5a
+      internalID: -2113283149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManLegsWalk_13
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 512
+        width: 74
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad4f2ad1040c5a648b7f5414a159fc7d
+      internalID: 1031762288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManLegsWalk_14
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 512
+        width: 74
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 679ba7e95b0ef2445b8c2271f77f3511
+      internalID: -768461363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManLegsWalk_15
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 512
+        width: 74
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0d5b9922259dc14d985c4378f640ed7
+      internalID: -448546425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManLegsWalk_16
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 512
+        width: 74
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d942307d211848d48b5aa92ca7e9baf0
+      internalID: 1806482065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManLegsWalk_17
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 512
+        width: 74
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bf010768062c1648b0b91124239c427
+      internalID: -712003879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManLegsWalk_18
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 512
+        width: 74
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec13e0f0c8d6f4b4fbb01a328556dda1
+      internalID: 1881777777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManLegsWalk_19
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 512
+        width: 74
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28185e8a61f4f06458d5be54b7c9fe92
+      internalID: 236734526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManLegsWalk_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 74
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d0d2ca4a2f184d419b16290729d794c
+      internalID: -1475158987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManLegsWalk_21
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 384
+        width: 74
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 960ebb49c572b964aa93a4f1a8ae7060
+      internalID: 270169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManLegsWalk_22
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 384
+        width: 74
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c293fdd1abe785940a2fd0d9e68bc495
+      internalID: -453874952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManLegsWalk_23
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 384
+        width: 74
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1394d1bbe63c6cc47b5b32e656e0600a
+      internalID: -324642779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManLegsWalk_24
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 384
+        width: 74
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78f11594d73151e4c8c203d3e4c70804
+      internalID: -616689484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManLegsWalk_25
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 384
+        width: 74
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cfb72dd8e5488a40a1727fef7e10f6b
+      internalID: 1965078819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManLegsWalk_26
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 384
+        width: 74
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a5e24a004106ba469644fa055592745
+      internalID: 1924116010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManLegsWalk_27
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 384
+        width: 74
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a172624d60429647b062ad3e2534f6c
+      internalID: 790576897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManLegsWalk_28
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 384
+        width: 74
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2320f49a790584f4f8034ec82bf6e864
+      internalID: -421544372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManLegsWalk_29
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 384
+        width: 74
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d9076f072f7baf42a3ed264a1fa0c22
+      internalID: -1683821105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManLegsWalk_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 74
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbd6649ff0b775f48a49faee3e9c79d8
+      internalID: 459365920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManLegsWalk_31
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 256
+        width: 74
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa5a0fd0a4c6b1347b1dcf5c64711c22
+      internalID: -729943556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManLegsWalk_32
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 256
+        width: 74
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f88313f0618c7f543afba1419409137f
+      internalID: 2020799235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManLegsWalk_33
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 256
+        width: 74
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad246b230afc37c4a9ba8e4022868b70
+      internalID: -1474091150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManLegsWalk_34
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 256
+        width: 74
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3f6d03bdc9495b47a5c3fd15f629a81
+      internalID: 1663108061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManLegsWalk_35
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 256
+        width: 74
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98ca28872830f1240b2b063c1c9ff589
+      internalID: 1747184702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManLegsWalk_36
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 256
+        width: 74
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e956191145f754449ff82d5b423a7e5
+      internalID: 1581133742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManLegsWalk_37
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 256
+        width: 74
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a5c1cb504f4b3b4e8d1e30f57a97ab5
+      internalID: -1721845789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManLegsWalk_38
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 256
+        width: 74
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ad3e7a0342876942b669bc053e1d11e
+      internalID: 1572425220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManLegsWalk_39
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 256
+        width: 74
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b072712b032ed254db8baef1928f3dac
+      internalID: -988061537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManLegsWalk_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 74
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf890899c41fae243947d4c31017113a
+      internalID: 173229942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManLegsWalk_41
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 128
+        width: 74
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc301094860b3e645a2caaae418cbebb
+      internalID: -313937252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManLegsWalk_42
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 128
+        width: 74
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61d43e7fc08f7624a977326b34d3dcf8
+      internalID: -1954458637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManLegsWalk_43
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 128
+        width: 74
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10ae63b3156053049bb001264ad0a07e
+      internalID: -282997323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManLegsWalk_44
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 128
+        width: 74
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 373575af5ad936848be80b88d1abeb16
+      internalID: -1366953385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManLegsWalk_45
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 128
+        width: 74
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25aeffaebf8c2c445bde1c7119021900
+      internalID: 447940633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManLegsWalk_46
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 128
+        width: 74
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6abdf74bf9c1b01498ebebaec1a1b00d
+      internalID: -716138056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManLegsWalk_47
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 128
+        width: 74
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8c7dcdadbedcd54195dd02559f6834c
+      internalID: 1551494986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManLegsWalk_48
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 128
+        width: 74
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3a27c25487a16a4daec6a18a5ed282d
+      internalID: -738686690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManLegsWalk_49
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 128
+        width: 74
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c70ab1409b8ecc4fabb6bb01fab0a75
+      internalID: -1853521243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManLegsWalk_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 74
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e232be54d0e6bef4997628aa7394700b
+      internalID: -32859911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManLegsWalk_51
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 0
+        width: 74
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3985c1919938223448e7f60dbddbe0d1
+      internalID: 1638464049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManLegsWalk_52
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 0
+        width: 74
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94bb57351866c604a81a6d58e5e0faec
+      internalID: 1334419336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManLegsWalk_53
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 0
+        width: 74
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09af5ca0d76ae19488d601841a0f1896
+      internalID: -1227010708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManLegsWalk_54
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 0
+        width: 74
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7607c722d3bf30b4eabe2e4b30689304
+      internalID: -1135457565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManLegsWalk_55
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 0
+        width: 74
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3282a4cef97840846a19857d2f4bcf9c
+      internalID: 762019636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      ManLegsWalk_0: -102409997
+      ManLegsWalk_1: -1308312117
+      ManLegsWalk_10: -710741580
+      ManLegsWalk_11: 563795777
+      ManLegsWalk_12: -2113283149
+      ManLegsWalk_13: 1031762288
+      ManLegsWalk_14: -768461363
+      ManLegsWalk_15: -448546425
+      ManLegsWalk_16: 1806482065
+      ManLegsWalk_17: -712003879
+      ManLegsWalk_18: 1881777777
+      ManLegsWalk_19: 236734526
+      ManLegsWalk_2: -557568683
+      ManLegsWalk_20: -1475158987
+      ManLegsWalk_21: 270169
+      ManLegsWalk_22: -453874952
+      ManLegsWalk_23: -324642779
+      ManLegsWalk_24: -616689484
+      ManLegsWalk_25: 1965078819
+      ManLegsWalk_26: 1924116010
+      ManLegsWalk_27: 790576897
+      ManLegsWalk_28: -421544372
+      ManLegsWalk_29: -1683821105
+      ManLegsWalk_3: 1587256353
+      ManLegsWalk_30: 459365920
+      ManLegsWalk_31: -729943556
+      ManLegsWalk_32: 2020799235
+      ManLegsWalk_33: -1474091150
+      ManLegsWalk_34: 1663108061
+      ManLegsWalk_35: 1747184702
+      ManLegsWalk_36: 1581133742
+      ManLegsWalk_37: -1721845789
+      ManLegsWalk_38: 1572425220
+      ManLegsWalk_39: -988061537
+      ManLegsWalk_4: -408226912
+      ManLegsWalk_40: 173229942
+      ManLegsWalk_41: -313937252
+      ManLegsWalk_42: -1954458637
+      ManLegsWalk_43: -282997323
+      ManLegsWalk_44: -1366953385
+      ManLegsWalk_45: 447940633
+      ManLegsWalk_46: -716138056
+      ManLegsWalk_47: 1551494986
+      ManLegsWalk_48: -738686690
+      ManLegsWalk_49: -1853521243
+      ManLegsWalk_5: -1871426334
+      ManLegsWalk_50: -32859911
+      ManLegsWalk_51: 1638464049
+      ManLegsWalk_52: 1334419336
+      ManLegsWalk_53: -1227010708
+      ManLegsWalk_54: -1135457565
+      ManLegsWalk_55: 762019636
+      ManLegsWalk_6: -1643090987
+      ManLegsWalk_7: -659944262
+      ManLegsWalk_8: -1523486611
+      ManLegsWalk_9: 800041620
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
