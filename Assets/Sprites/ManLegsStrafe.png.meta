@@ -1,0 +1,2604 @@
+fileFormatVersion: 2
+guid: 4261c335b1d1b0f4688e227e2eb0135b
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 128
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ManLegsStrafe_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 896
+        width: 72
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cb109bdd5eac194c8d663cdca859db1
+      internalID: 248931561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManLegsStrafe_1
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 896
+        width: 72
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8bdd920aed4b374396876bc7829ad74
+      internalID: -86594636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManLegsStrafe_2
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 896
+        width: 72
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15255efdc26866542b1db2c0c5c6be21
+      internalID: 1621900127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManLegsStrafe_3
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 896
+        width: 72
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67c297c64905b44418c328f2b4987473
+      internalID: 1584223052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManLegsStrafe_4
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 896
+        width: 72
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d368691f04012c4e85092014a5db75b
+      internalID: 698389688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManLegsStrafe_5
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 896
+        width: 72
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ac9ffc3a38d0a740ae24f3864274d27
+      internalID: 214303590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManLegsStrafe_6
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 896
+        width: 72
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90194a52ae446fe4abdd3e521d0dda43
+      internalID: -1261537852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManLegsStrafe_7
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 896
+        width: 72
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94ef552d1a855154cb9d751ac985f8e3
+      internalID: -2081141948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManLegsStrafe_8
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 896
+        width: 72
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5035e63a5aa7e4418f6729af0890e40
+      internalID: 1507658266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManLegsStrafe_9
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 896
+        width: 72
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9dbc88b700560a4096c82a2a9172be5
+      internalID: -1794841628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManLegsStrafe_10
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 896
+        width: 72
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0482d202b9ef30541bf3582615cf6fde
+      internalID: 1143249415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManLegsStrafe_11
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 896
+        width: 72
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e6ac9306e90bee4cb6fb11c3eba6f1d
+      internalID: 336461825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManLegsStrafe_12
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 896
+        width: 72
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46ae01842e123024f81ab503f662edb0
+      internalID: -2127201326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManLegsStrafe_13
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 896
+        width: 72
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 689aa0fa9470bc74c8a5b9629af02471
+      internalID: 330623170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManLegsStrafe_14
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 896
+        width: 72
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58895e953b24dce44929a23e6b2e159e
+      internalID: 175349744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManLegsStrafe_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 72
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb5a03656ca3aab40953b1f727838f08
+      internalID: -110492541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManLegsStrafe_16
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 768
+        width: 72
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c23487c6080f2f548a1097651f74e1d7
+      internalID: -1896359643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManLegsStrafe_17
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 768
+        width: 72
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c52a4001aa7717646b3de95167c3d747
+      internalID: -1789321234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManLegsStrafe_18
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 768
+        width: 72
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca42ced514dd8f149bd164d42312d042
+      internalID: 389006418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManLegsStrafe_19
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 768
+        width: 72
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67c8bf7415fe01f4c8e4ccd1a26dacc5
+      internalID: -1715472759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManLegsStrafe_20
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 768
+        width: 72
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 806bcdc8e4336734194e3e47417062af
+      internalID: -1197325081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManLegsStrafe_21
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 768
+        width: 72
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10b4f6fcf4b9ea44cb18e2cc222d9b5d
+      internalID: -985005556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManLegsStrafe_22
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 768
+        width: 72
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef0d7a69f8b34284289167ee6d95c017
+      internalID: 1667882557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManLegsStrafe_23
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 768
+        width: 72
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be0ab8f55a8399a469b74a8909afdb99
+      internalID: -1914385324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManLegsStrafe_24
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 768
+        width: 72
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd23d1111b88b5e41bc3aaff92e60765
+      internalID: -1111796718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManLegsStrafe_25
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 768
+        width: 72
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78c58a401ad319c40995325e512ca8ba
+      internalID: -993606481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManLegsStrafe_26
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 768
+        width: 72
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2224e88faa68c1649a9057f5f184e882
+      internalID: -311134022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManLegsStrafe_27
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 768
+        width: 72
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71eb9d6619a639741aadc18dbfe8f6fb
+      internalID: -78201780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManLegsStrafe_28
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 768
+        width: 72
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cd16f2035f110b4b9a9159d0f448675
+      internalID: 1223696164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManLegsStrafe_29
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 768
+        width: 72
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74c5065db4c8c2448a7da757f1192e78
+      internalID: -201091257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManLegsStrafe_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 640
+        width: 72
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbd46dc90b55eb44bbbd6a7a1491369a
+      internalID: -1571460457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManLegsStrafe_31
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 640
+        width: 72
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecaaee618225f5c459050f4211cda37f
+      internalID: 940262566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManLegsStrafe_32
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 640
+        width: 72
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 774d988577304ce479dfe9ce0a8a36d7
+      internalID: -73864769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManLegsStrafe_33
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 640
+        width: 72
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cea54b95d21f2784a95d281163f6c53a
+      internalID: -1118839955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManLegsStrafe_34
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 640
+        width: 72
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dd98a90e8db03749a582d094b0a768e
+      internalID: 1013989485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManLegsStrafe_35
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 640
+        width: 72
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac732e4c5f91c514e892ab598f20a477
+      internalID: -1953659143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManLegsStrafe_36
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 640
+        width: 72
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87152907fb5fe3b49ad99a4e55cb23c5
+      internalID: -1201434497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManLegsStrafe_37
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 640
+        width: 72
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46aeadc9d153f9b46bcf083b0e89cda7
+      internalID: 446301191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManLegsStrafe_38
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 640
+        width: 72
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4753ffe749a52a04aaf89ca159f25e9d
+      internalID: -958301241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManLegsStrafe_39
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 640
+        width: 72
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc2765b51887b554184ccbf6447c5282
+      internalID: -1347256369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManLegsStrafe_40
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 640
+        width: 72
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89992939228d6a041a2486d5d7a226e3
+      internalID: 34290730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManLegsStrafe_41
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 640
+        width: 72
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7288b0828adaf83419206b1578240d64
+      internalID: 1119872489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManLegsStrafe_42
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 640
+        width: 72
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be1f776a59c8e3e4d8b7cc7e706b98f7
+      internalID: 1710539444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManLegsStrafe_43
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 640
+        width: 72
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f542adcd6f144f4996db4dd3cea9c37
+      internalID: 1220567779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManLegsStrafe_44
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 640
+        width: 72
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98d7f3c5f89ca58418844c0301c436cd
+      internalID: -2110099961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManLegsStrafe_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 72
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8272975ac6cd57948b6059f2d2aa2d3f
+      internalID: -1129556335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManLegsStrafe_46
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 512
+        width: 72
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2372b337519d3744c883d1007b8a8863
+      internalID: -2132494428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManLegsStrafe_47
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 512
+        width: 72
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae99a2a81c710f246962faa1199af853
+      internalID: 52454796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManLegsStrafe_48
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 512
+        width: 72
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d361d59d9568fd44da0fad8463efe0a9
+      internalID: 1068738111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManLegsStrafe_49
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 512
+        width: 72
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2c8fefef6275294296c9bcfd648c435
+      internalID: 2087539302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManLegsStrafe_50
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 512
+        width: 72
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3fa64e9af615ef459d2583e2f51c907
+      internalID: 1155179800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManLegsStrafe_51
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 512
+        width: 72
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a831cbc682897a40983eabde5307d78
+      internalID: 1561509938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManLegsStrafe_52
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 512
+        width: 72
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 200f86ecd62965a4d8a089263c3f7465
+      internalID: 594009997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManLegsStrafe_53
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 512
+        width: 72
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c03a64b0fbbdf540bb3bbceffda9e15
+      internalID: 2055343520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManLegsStrafe_54
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 512
+        width: 72
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d4975fea2da509418cec27768d00561
+      internalID: -1141198325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManLegsStrafe_55
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 512
+        width: 72
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 116f8a3fcbd42324e84aaff500de3e48
+      internalID: 1634296711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManLegsStrafe_56
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 512
+        width: 72
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9770cb61ecf6854486c3f24b5682094
+      internalID: 261277612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManLegsStrafe_57
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 512
+        width: 72
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f86c3dcbc52b6a049a90378735dde95b
+      internalID: -183075167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManLegsStrafe_58
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 512
+        width: 72
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b77aa52aee920cf42b5fe2429449ac6d
+      internalID: 2023208106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManLegsStrafe_59
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 512
+        width: 72
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d2769c1ccc5ae24dbef86538c076a83
+      internalID: 954609440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManLegsStrafe_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 72
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a0f0eef66a038a4bba17936466bdba1
+      internalID: 1851654957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManLegsStrafe_61
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 384
+        width: 72
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 452644cf089a08b4684b34f0bbe55df5
+      internalID: -1678767503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManLegsStrafe_62
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 384
+        width: 72
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a819933fa359e1042bbc58cf4b5faa2d
+      internalID: -1707699498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManLegsStrafe_63
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 384
+        width: 72
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a7f89d9c3164aa4787634c9952de5da
+      internalID: -1839459274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManLegsStrafe_64
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 384
+        width: 72
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a6a96f83542b4e4abdb796e3c4f538e
+      internalID: 1292206131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManLegsStrafe_65
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 384
+        width: 72
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a37f68311d3823c4d99ff9b16393614e
+      internalID: -990641372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManLegsStrafe_66
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 384
+        width: 72
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6a9929d570dde94ca239542aad4c82f
+      internalID: -818701199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManLegsStrafe_67
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 384
+        width: 72
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 010287fedc358df43b8d14e614b981b7
+      internalID: 1036567171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManLegsStrafe_68
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 384
+        width: 72
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bd924a45f8812e4688ad67828ab62fa
+      internalID: 1784910798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManLegsStrafe_69
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 384
+        width: 72
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b87922ce17fc0b42a62794e5e37c1d4
+      internalID: -638229823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManLegsStrafe_70
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 384
+        width: 72
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06beecac7816c9f4aaa8467383e0ecfd
+      internalID: 1745788773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManLegsStrafe_71
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 384
+        width: 72
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca3e10e77e60d2a4fa7af3d7a8f32543
+      internalID: 491363450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManLegsStrafe_72
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 384
+        width: 72
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 033cdc666635356409e1ae781826e688
+      internalID: -708045641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManLegsStrafe_73
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 384
+        width: 72
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 575e1ef154a634449b3be69e48a9fdb0
+      internalID: -489695875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManLegsStrafe_74
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 384
+        width: 72
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0902ec71ea89b3543b59a1bc334c4efe
+      internalID: 2132206818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManLegsStrafe_75
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 72
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79ab80c0a5497884da5db2719db32de0
+      internalID: 911000201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManLegsStrafe_76
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 256
+        width: 72
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 891ed7b0d8316304a87f73e0e99b0e03
+      internalID: -2079832479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManLegsStrafe_77
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 256
+        width: 72
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4045b125058ad4f47adb17b49d35f720
+      internalID: -1936142770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManLegsStrafe_78
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 256
+        width: 72
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4f46171bdf8b4845bb10d606f489948
+      internalID: 164886047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManLegsStrafe_79
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 256
+        width: 72
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ff52d4256c3924438974c72124964b3
+      internalID: -1527058618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManLegsStrafe_80
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 256
+        width: 72
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39e11df36855077458ca0a8950b3c138
+      internalID: 197522269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManLegsStrafe_81
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 256
+        width: 72
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f13596cd0826a54d8a93b4c6e3c6475
+      internalID: -903714658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManLegsStrafe_82
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 256
+        width: 72
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d52edceed9cb25439ba0e4c3366bf94
+      internalID: -899274103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManLegsStrafe_83
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 256
+        width: 72
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf4a424a4191f4a4fbfe2dc36717e89a
+      internalID: 1676529830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManLegsStrafe_84
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 256
+        width: 72
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d850a78e5f325244fafa84acf441169b
+      internalID: 1743269352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManLegsStrafe_85
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 256
+        width: 72
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba9b601ac4b146143b44fb014067ca0d
+      internalID: 1763291296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManLegsStrafe_86
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 256
+        width: 72
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59dda4b9d0533804c842c861bfdc2d07
+      internalID: -226140517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManLegsStrafe_87
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 256
+        width: 72
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fefb6d23036263044809972b05e5c241
+      internalID: -2030839289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManLegsStrafe_88
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 256
+        width: 72
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01fd55b347b44fe45a1b2c38ddfdb031
+      internalID: 1382156128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManLegsStrafe_89
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 256
+        width: 72
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ff2b9225282bce4199eefe2dc47033b
+      internalID: 617279073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManLegsStrafe_90
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 72
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88ed37d73cacbb444b2abb20b8730ec1
+      internalID: 1476143188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManLegsStrafe_91
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 128
+        width: 72
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7be7fad3b7ba1d43aa87c300effbc53
+      internalID: 1326647408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManLegsStrafe_92
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 128
+        width: 72
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b290a4027178cb4f9c1fa95f24fc1f4
+      internalID: 546196084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManLegsStrafe_93
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 128
+        width: 72
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8e4eb8fb61eb3c48b20171b581a9f71
+      internalID: 1533796236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManLegsStrafe_94
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 128
+        width: 72
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 652b8e89b865f77458b1bd76c77f93aa
+      internalID: -544670792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManLegsStrafe_95
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 128
+        width: 72
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5119324cb079d5945ad9a20a29b6839e
+      internalID: -575682023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManLegsStrafe_96
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 128
+        width: 72
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cb55040bb2317146aa0b8fc020e79a9
+      internalID: 1399885195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManLegsStrafe_97
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 128
+        width: 72
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f05cc328b42aa504e911dbd6b2090df0
+      internalID: 391753813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManLegsStrafe_98
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 128
+        width: 72
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b98682a9ffef3c34ca1ec940a8e3f882
+      internalID: 334965398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManLegsStrafe_99
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 128
+        width: 72
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d349c427462514948be9096cd8feab69
+      internalID: -1606752928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManLegsStrafe_100
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 128
+        width: 72
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebd81d77c1de4804fa228e8b1ce35ec8
+      internalID: -1347170184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManLegsStrafe_101
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 128
+        width: 72
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 795d836644076de4da6b358b13cd006d
+      internalID: 372676871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManLegsStrafe_102
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 128
+        width: 72
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d99960c08d692014fb766b22d400d542
+      internalID: 1422107559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManLegsStrafe_103
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 128
+        width: 72
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 929458f673e3f404abcb5e8f30bd9dc9
+      internalID: 72255619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManLegsStrafe_104
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 128
+        width: 72
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48aaea2f87e14514a88a12445b71081b
+      internalID: 96970859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManLegsStrafe_105
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 72
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80632e0591e93674ab94dea5adbad541
+      internalID: 714074241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManLegsStrafe_106
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 0
+        width: 72
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 969ee36cac1103445903302da8539933
+      internalID: 1533857860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManLegsStrafe_107
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 0
+        width: 72
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24f9fd9c84254dc48be759f6fdc7e2fc
+      internalID: -749576203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManLegsStrafe_108
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 0
+        width: 72
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44a32a75dfe8a4c47ab9af4395ac7cea
+      internalID: 80814579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManLegsStrafe_109
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 72
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c7b37d40f132224db993c1657e9b532
+      internalID: -1520316939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManLegsStrafe_110
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 0
+        width: 72
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4570b3991f953149a7fbc6b975bc4c4
+      internalID: -1237448078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManLegsStrafe_111
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 0
+        width: 72
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aee6480e7cb971c43ab6b0bf50eacfbe
+      internalID: -2083082785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      ManLegsStrafe_0: 248931561
+      ManLegsStrafe_1: -86594636
+      ManLegsStrafe_10: 1143249415
+      ManLegsStrafe_100: -1347170184
+      ManLegsStrafe_101: 372676871
+      ManLegsStrafe_102: 1422107559
+      ManLegsStrafe_103: 72255619
+      ManLegsStrafe_104: 96970859
+      ManLegsStrafe_105: 714074241
+      ManLegsStrafe_106: 1533857860
+      ManLegsStrafe_107: -749576203
+      ManLegsStrafe_108: 80814579
+      ManLegsStrafe_109: -1520316939
+      ManLegsStrafe_11: 336461825
+      ManLegsStrafe_110: -1237448078
+      ManLegsStrafe_111: -2083082785
+      ManLegsStrafe_12: -2127201326
+      ManLegsStrafe_13: 330623170
+      ManLegsStrafe_14: 175349744
+      ManLegsStrafe_15: -110492541
+      ManLegsStrafe_16: -1896359643
+      ManLegsStrafe_17: -1789321234
+      ManLegsStrafe_18: 389006418
+      ManLegsStrafe_19: -1715472759
+      ManLegsStrafe_2: 1621900127
+      ManLegsStrafe_20: -1197325081
+      ManLegsStrafe_21: -985005556
+      ManLegsStrafe_22: 1667882557
+      ManLegsStrafe_23: -1914385324
+      ManLegsStrafe_24: -1111796718
+      ManLegsStrafe_25: -993606481
+      ManLegsStrafe_26: -311134022
+      ManLegsStrafe_27: -78201780
+      ManLegsStrafe_28: 1223696164
+      ManLegsStrafe_29: -201091257
+      ManLegsStrafe_3: 1584223052
+      ManLegsStrafe_30: -1571460457
+      ManLegsStrafe_31: 940262566
+      ManLegsStrafe_32: -73864769
+      ManLegsStrafe_33: -1118839955
+      ManLegsStrafe_34: 1013989485
+      ManLegsStrafe_35: -1953659143
+      ManLegsStrafe_36: -1201434497
+      ManLegsStrafe_37: 446301191
+      ManLegsStrafe_38: -958301241
+      ManLegsStrafe_39: -1347256369
+      ManLegsStrafe_4: 698389688
+      ManLegsStrafe_40: 34290730
+      ManLegsStrafe_41: 1119872489
+      ManLegsStrafe_42: 1710539444
+      ManLegsStrafe_43: 1220567779
+      ManLegsStrafe_44: -2110099961
+      ManLegsStrafe_45: -1129556335
+      ManLegsStrafe_46: -2132494428
+      ManLegsStrafe_47: 52454796
+      ManLegsStrafe_48: 1068738111
+      ManLegsStrafe_49: 2087539302
+      ManLegsStrafe_5: 214303590
+      ManLegsStrafe_50: 1155179800
+      ManLegsStrafe_51: 1561509938
+      ManLegsStrafe_52: 594009997
+      ManLegsStrafe_53: 2055343520
+      ManLegsStrafe_54: -1141198325
+      ManLegsStrafe_55: 1634296711
+      ManLegsStrafe_56: 261277612
+      ManLegsStrafe_57: -183075167
+      ManLegsStrafe_58: 2023208106
+      ManLegsStrafe_59: 954609440
+      ManLegsStrafe_6: -1261537852
+      ManLegsStrafe_60: 1851654957
+      ManLegsStrafe_61: -1678767503
+      ManLegsStrafe_62: -1707699498
+      ManLegsStrafe_63: -1839459274
+      ManLegsStrafe_64: 1292206131
+      ManLegsStrafe_65: -990641372
+      ManLegsStrafe_66: -818701199
+      ManLegsStrafe_67: 1036567171
+      ManLegsStrafe_68: 1784910798
+      ManLegsStrafe_69: -638229823
+      ManLegsStrafe_7: -2081141948
+      ManLegsStrafe_70: 1745788773
+      ManLegsStrafe_71: 491363450
+      ManLegsStrafe_72: -708045641
+      ManLegsStrafe_73: -489695875
+      ManLegsStrafe_74: 2132206818
+      ManLegsStrafe_75: 911000201
+      ManLegsStrafe_76: -2079832479
+      ManLegsStrafe_77: -1936142770
+      ManLegsStrafe_78: 164886047
+      ManLegsStrafe_79: -1527058618
+      ManLegsStrafe_8: 1507658266
+      ManLegsStrafe_80: 197522269
+      ManLegsStrafe_81: -903714658
+      ManLegsStrafe_82: -899274103
+      ManLegsStrafe_83: 1676529830
+      ManLegsStrafe_84: 1743269352
+      ManLegsStrafe_85: 1763291296
+      ManLegsStrafe_86: -226140517
+      ManLegsStrafe_87: -2030839289
+      ManLegsStrafe_88: 1382156128
+      ManLegsStrafe_89: 617279073
+      ManLegsStrafe_9: -1794841628
+      ManLegsStrafe_90: 1476143188
+      ManLegsStrafe_91: 1326647408
+      ManLegsStrafe_92: 546196084
+      ManLegsStrafe_93: 1533796236
+      ManLegsStrafe_94: -544670792
+      ManLegsStrafe_95: -575682023
+      ManLegsStrafe_96: 1399885195
+      ManLegsStrafe_97: 391753813
+      ManLegsStrafe_98: 334965398
+      ManLegsStrafe_99: -1606752928
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

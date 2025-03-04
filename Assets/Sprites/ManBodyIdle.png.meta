@@ -1,0 +1,1724 @@
+fileFormatVersion: 2
+guid: 8a7c2e3ac4d74474c9ef77420ce36d21
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 128
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ManBodyIdle_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 640
+        width: 74
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9703013348b5ddb418e191d7742d2f8a
+      internalID: 389132795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManBodyIdle_1
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 640
+        width: 74
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25697bbdd3cb9464282af442f1adfb4c
+      internalID: -15346806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManBodyIdle_2
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 640
+        width: 74
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e711fa2e0922f24ba0a124a8da96a0d
+      internalID: 2103888731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManBodyIdle_3
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 640
+        width: 74
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9491c9e9d87cbb42bedb791be47505c
+      internalID: -2105444479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManBodyIdle_4
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 640
+        width: 74
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 679676ff886ea3945aa265cdee1cda7e
+      internalID: -839163919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManBodyIdle_5
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 640
+        width: 74
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff4f97d7e5da18248a6a23dfdcfa7bd2
+      internalID: 926045344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManBodyIdle_6
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 640
+        width: 74
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f2f587ff90ba1542b623d4cc9d89c6e
+      internalID: -2132883839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManBodyIdle_7
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 640
+        width: 74
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3c4c0092be49d74286152497fca936f
+      internalID: -1703567837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManBodyIdle_8
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 640
+        width: 74
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 197f8880d2cf7994698a120de77b9854
+      internalID: -1551271152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManBodyIdle_9
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 640
+        width: 74
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47e2f587a804b5b4f965b70f1837948d
+      internalID: 2111828340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManBodyIdle_10
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 640
+        width: 74
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4b9330fae686264a80f36860185df6c
+      internalID: 625022602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManBodyIdle_11
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 640
+        width: 74
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 286354ab7a15b2c479808f1744423711
+      internalID: 308387314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManBodyIdle_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 74
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37e8c32ffcc1fac4aaa4c9e60efc0b81
+      internalID: -415689974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManBodyIdle_13
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 512
+        width: 74
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ac0f8a7adc53cc42be91933141e7363
+      internalID: -218661921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManBodyIdle_14
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 512
+        width: 74
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c4da5f580b48004492a3ed24bd88b24
+      internalID: -545058650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManBodyIdle_15
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 512
+        width: 74
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6596119c5b846d74fa0f4fa97bf57264
+      internalID: 1382205559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManBodyIdle_16
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 512
+        width: 74
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 235434d6083b0664297a1b22d233fd2a
+      internalID: -187225859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManBodyIdle_17
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 512
+        width: 74
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9773f34641ee17a41a0bd95db37c4ea6
+      internalID: 2105176087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManBodyIdle_18
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 512
+        width: 74
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a2de961e385fdf48abe34982678a321
+      internalID: 354325134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManBodyIdle_19
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 512
+        width: 74
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2da60819f67bded42b15097ab073fe21
+      internalID: -1865848804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManBodyIdle_20
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 512
+        width: 74
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c08e2f8db8bafd46b64cb850927d7df
+      internalID: -807294232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManBodyIdle_21
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 512
+        width: 74
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9753da966d8bc1346b9fc1d0b9517b6d
+      internalID: -1345156490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManBodyIdle_22
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 512
+        width: 74
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1eae389671eecb4fbdffb15dd4f08dc
+      internalID: 616342619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManBodyIdle_23
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 512
+        width: 74
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dc4d272849ad664aa80fc9eac4c010c
+      internalID: -864497341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManBodyIdle_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 74
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f43f8693d864cc746bc138e73bb37a5e
+      internalID: -2113988685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManBodyIdle_25
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 384
+        width: 74
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4252f4c45fb03dc4bb599ec1f8a5f05a
+      internalID: -600817391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManBodyIdle_26
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 384
+        width: 74
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3080c51f073c444d9aa1ce4c016ca14
+      internalID: -237808386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManBodyIdle_27
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 384
+        width: 74
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4c0f75c56b930542aa93ba3881bf704
+      internalID: 347099539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManBodyIdle_28
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 384
+        width: 74
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3391a898d11233d439b9a3d3b8fec70c
+      internalID: -2061150506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManBodyIdle_29
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 384
+        width: 74
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49569edbc1fcc804c88d4382e7f3eec9
+      internalID: -1131227174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManBodyIdle_30
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 384
+        width: 74
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39d5a9db601d9534b920dba16b93edad
+      internalID: 326426456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManBodyIdle_31
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 384
+        width: 74
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c3f03caec603824abed9d5cd85ea917
+      internalID: 196966847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManBodyIdle_32
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 384
+        width: 74
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e3dd13892159204d9175de4cba2e9a2
+      internalID: 1243219890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManBodyIdle_33
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 384
+        width: 74
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6ad91a995f0fd844966b4223ddb8f49
+      internalID: 263304817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManBodyIdle_34
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 384
+        width: 74
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07b454c2bc73bc94f84eabbe0db4b6c1
+      internalID: 2007585952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManBodyIdle_35
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 384
+        width: 74
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0fd408aafc101548b0bb52d3a3593bd
+      internalID: 1474980925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManBodyIdle_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 74
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e902fad628125ee4d9b0b9de648fad93
+      internalID: 1156286163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManBodyIdle_37
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 256
+        width: 74
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b39ca428d3a3dae4d964ed30a7ce5d62
+      internalID: -1486928159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManBodyIdle_38
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 256
+        width: 74
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7429971c72087e4b9b77e770c73b092
+      internalID: 2026270194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManBodyIdle_39
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 256
+        width: 74
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 681ee96789796a74586933b890fc548f
+      internalID: -1623047530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManBodyIdle_40
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 256
+        width: 74
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de02ed2c7a6e7404dbf4db707b1c04b8
+      internalID: 26370776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManBodyIdle_41
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 256
+        width: 74
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8445eddf9daafa4cbd7d253fc462600
+      internalID: -386664673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManBodyIdle_42
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 256
+        width: 74
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db14ac9846a651842a15b9e1a6210a57
+      internalID: -1595419435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManBodyIdle_43
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 256
+        width: 74
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76280fd2943903742ae33b768178caf3
+      internalID: -1334221360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManBodyIdle_44
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 256
+        width: 74
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6388102648c77e748848f2ef6cb8bdcb
+      internalID: 16344820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManBodyIdle_45
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 256
+        width: 74
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ad421f0954caff42a1bf1ac76dfe35f
+      internalID: 45485396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManBodyIdle_46
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 256
+        width: 74
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f17a8b1578967c49babf13fd322af7d
+      internalID: 1934384809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManBodyIdle_47
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 256
+        width: 74
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b93ff318dcc70ca48bccdbf3531e793a
+      internalID: 1620701087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManBodyIdle_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 74
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d59604f595506246a4c67362657e215
+      internalID: 317946402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManBodyIdle_49
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 128
+        width: 74
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52bda51d8a64e434c8492ddd93ace06a
+      internalID: -618682532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManBodyIdle_50
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 128
+        width: 74
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 666cafa70f0a5dd42b1d4f62bf6b19b4
+      internalID: 1347710367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManBodyIdle_51
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 128
+        width: 74
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ded54f4721f81e4593b725a72bde45d
+      internalID: 177556267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManBodyIdle_52
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 128
+        width: 74
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca78365100f731f4a957e4b4cca43778
+      internalID: 1871866066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManBodyIdle_53
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 128
+        width: 74
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e3258c8ca6d73343bfef4f2992b239e
+      internalID: 47646719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManBodyIdle_54
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 128
+        width: 74
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5be061ecf839e644ab4067a787cead8
+      internalID: -2122737907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManBodyIdle_55
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 128
+        width: 74
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89abbcc5f8d5a1d4b94a36ae137701e6
+      internalID: 429099169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManBodyIdle_56
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 128
+        width: 74
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c18e58176fd02b94381c7a35c0938155
+      internalID: 922236817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManBodyIdle_57
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 128
+        width: 74
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad068a884c7833943b66ad003a8caf84
+      internalID: 1631433642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManBodyIdle_58
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 128
+        width: 74
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1e705359b99fd1448c9b185f30270c7
+      internalID: -1279826485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManBodyIdle_59
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 128
+        width: 74
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5a3f112e67027f478e5d3d897831663
+      internalID: -1770038005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManBodyIdle_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 74
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc13c880e38f21041adc241dff07317c
+      internalID: -1160031520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManBodyIdle_61
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 0
+        width: 74
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d07303e02a0af74581e412950a7ab22
+      internalID: 1010237713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManBodyIdle_62
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 0
+        width: 74
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e3ffa4d0461a8244ac557f931f0a42f
+      internalID: -214545201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManBodyIdle_63
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 0
+        width: 74
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0557e2cec5311104c95a2a58057b0c0b
+      internalID: 204537360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManBodyIdle_64
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 0
+        width: 74
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffeb2980fbef1da4a904e3710aa56178
+      internalID: -1771602770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManBodyIdle_65
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 0
+        width: 74
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c125b99f05d802f42bf3b6047fd80350
+      internalID: -832895663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManBodyIdle_66
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 0
+        width: 74
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a14b6be31ca36a04395cabb85221fbf0
+      internalID: -161252047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManBodyIdle_67
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 0
+        width: 74
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6499046105572ef47ad28ff7939adfe1
+      internalID: -1643224876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManBodyIdle_68
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 0
+        width: 74
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75e8288606e3f41428b010bd024e483d
+      internalID: -996695543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManBodyIdle_69
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 0
+        width: 74
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff7b4e42e11477a46819bd456b2b4959
+      internalID: -1944851339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManBodyIdle_70
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 0
+        width: 74
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e87ec0922660719419bbd329897687f5
+      internalID: -526698039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManBodyIdle_71
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 0
+        width: 74
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f970543ef8bf8841ba0f9c29e02b59e
+      internalID: -1900059713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      ManBodyIdle_0: 389132795
+      ManBodyIdle_1: -15346806
+      ManBodyIdle_10: 625022602
+      ManBodyIdle_11: 308387314
+      ManBodyIdle_12: -415689974
+      ManBodyIdle_13: -218661921
+      ManBodyIdle_14: -545058650
+      ManBodyIdle_15: 1382205559
+      ManBodyIdle_16: -187225859
+      ManBodyIdle_17: 2105176087
+      ManBodyIdle_18: 354325134
+      ManBodyIdle_19: -1865848804
+      ManBodyIdle_2: 2103888731
+      ManBodyIdle_20: -807294232
+      ManBodyIdle_21: -1345156490
+      ManBodyIdle_22: 616342619
+      ManBodyIdle_23: -864497341
+      ManBodyIdle_24: -2113988685
+      ManBodyIdle_25: -600817391
+      ManBodyIdle_26: -237808386
+      ManBodyIdle_27: 347099539
+      ManBodyIdle_28: -2061150506
+      ManBodyIdle_29: -1131227174
+      ManBodyIdle_3: -2105444479
+      ManBodyIdle_30: 326426456
+      ManBodyIdle_31: 196966847
+      ManBodyIdle_32: 1243219890
+      ManBodyIdle_33: 263304817
+      ManBodyIdle_34: 2007585952
+      ManBodyIdle_35: 1474980925
+      ManBodyIdle_36: 1156286163
+      ManBodyIdle_37: -1486928159
+      ManBodyIdle_38: 2026270194
+      ManBodyIdle_39: -1623047530
+      ManBodyIdle_4: -839163919
+      ManBodyIdle_40: 26370776
+      ManBodyIdle_41: -386664673
+      ManBodyIdle_42: -1595419435
+      ManBodyIdle_43: -1334221360
+      ManBodyIdle_44: 16344820
+      ManBodyIdle_45: 45485396
+      ManBodyIdle_46: 1934384809
+      ManBodyIdle_47: 1620701087
+      ManBodyIdle_48: 317946402
+      ManBodyIdle_49: -618682532
+      ManBodyIdle_5: 926045344
+      ManBodyIdle_50: 1347710367
+      ManBodyIdle_51: 177556267
+      ManBodyIdle_52: 1871866066
+      ManBodyIdle_53: 47646719
+      ManBodyIdle_54: -2122737907
+      ManBodyIdle_55: 429099169
+      ManBodyIdle_56: 922236817
+      ManBodyIdle_57: 1631433642
+      ManBodyIdle_58: -1279826485
+      ManBodyIdle_59: -1770038005
+      ManBodyIdle_6: -2132883839
+      ManBodyIdle_60: -1160031520
+      ManBodyIdle_61: 1010237713
+      ManBodyIdle_62: -214545201
+      ManBodyIdle_63: 204537360
+      ManBodyIdle_64: -1771602770
+      ManBodyIdle_65: -832895663
+      ManBodyIdle_66: -161252047
+      ManBodyIdle_67: -1643224876
+      ManBodyIdle_68: -996695543
+      ManBodyIdle_69: -1944851339
+      ManBodyIdle_7: -1703567837
+      ManBodyIdle_70: -526698039
+      ManBodyIdle_71: -1900059713
+      ManBodyIdle_8: -1551271152
+      ManBodyIdle_9: 2111828340
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
